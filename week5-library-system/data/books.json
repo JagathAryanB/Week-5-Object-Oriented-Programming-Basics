@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "9781593279288",
+    "year": 2019,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-10"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "isbn": "9781593275990",
+    "year": 2015,
+    "available": false,
+    "borrowed_by": "MEM001",
+    "due_date": "2024-02-15",
+    "date_added": "2024-01-10"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "isbn": "9781491946008",
+    "year": 2022,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-11"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "year": 2008,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-12"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "David Thomas, Andrew Hunt",
+    "isbn": "9780135957059",
+    "year": 2019,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-12"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "isbn": "9780262033848",
+    "year": 2009,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-13"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "isbn": "9780201633610",
+    "year": 1994,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-13"
+  },
+  {
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "isbn": "9780134757599",
+    "year": 2018,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-14"
+  },
+  {
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman, Elisabeth Robson",
+    "isbn": "9780596007126",
+    "year": 2004,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-14"
+  },
+  {
+    "title": "You Don't Know JS: Scope & Closures",
+    "author": "Kyle Simpson",
+    "isbn": "9781449335588",
+    "year": 2014,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-15"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "isbn": "9780596517748",
+    "year": 2008,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-15"
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson, Gerald Jay Sussman",
+    "isbn": "9780262510875",
+    "year": 1996,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-16"
+  },
+  {
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "isbn": "9780735619678",
+    "year": 2004,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-16"
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "isbn": "9780984782857",
+    "year": 2015,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-17"
+  },
+  {
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "isbn": "9780134685991",
+    "year": 2018,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-17"
+  },
+  {
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "isbn": "9781119800361",
+    "year": 2018,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-18"
+  },
+  {
+    "title": "Computer Networking: A Top-Down Approach",
+    "author": "James Kurose, Keith Ross",
+    "isbn": "9780133594140",
+    "year": 2016,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-18"
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "isbn": "9780078022159",
+    "year": 2019,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-19"
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell, Peter Norvig",
+    "isbn": "9780134610993",
+    "year": 2020,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-19"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "isbn": "9780262035613",
+    "year": 2016,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-20"
+  },
+  {
+    "title": "Learning SQL",
+    "author": "Alan Beaulieu",
+    "isbn": "9781492057611",
+    "year": 2020,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-20"
+  },
+  {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "isbn": "9781449373320",
+    "year": 2017,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-21"
+  },
+  {
+    "title": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "isbn": "9781617292231",
+    "year": 2016,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-21"
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",
+    "isbn": "9781491929124",
+    "year": 2016,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-22"
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "isbn": "9780201835953",
+    "year": 1995,
+    "available": true,
+    "borrowed_by": null,
+    "due_date": null,
+    "date_added": "2024-01-22"
+  }
+]

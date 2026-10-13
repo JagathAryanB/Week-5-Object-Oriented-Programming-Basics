@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Alice Johnson",
+    "member_id": "MEM001",
+    "borrowed_books": [
+      "9781593275990"
+    ],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Bob Smith",
+    "member_id": "MEM002",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Charlie Brown",
+    "member_id": "MEM003",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Diana Prince",
+    "member_id": "MEM004",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Evan Wright",
+    "member_id": "MEM005",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Fiona Gallagher",
+    "member_id": "MEM006",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "George Clark",
+    "member_id": "MEM007",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Hannah Abbott",
+    "member_id": "MEM008",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Ian Malcolm",
+    "member_id": "MEM009",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  },
+  {
+    "name": "Julia Roberts",
+    "member_id": "MEM010",
+    "borrowed_books": [],
+    "max_borrow_limit": 5
+  }
+]
